@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Shirisha World, How are you? I am from Hyderabad, Telangana, INDIA.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h3>This is updated just for GitHub Webhook Build Trigger</h3>
 		</div>	
 	</div>
 
